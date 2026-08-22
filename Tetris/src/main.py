@@ -12,7 +12,7 @@ class Main:
         self.displaySurface = pygame.display.set_mode((windowWidth, windowHeight))
         self.clock = pygame.time.Clock()
         pygame.display.set_caption("Tetris")
-        self.game = Game()
+        self.game = Game() 
         self.score = Score()
         self.preview = Preview()
     
