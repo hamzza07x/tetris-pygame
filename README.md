@@ -271,9 +271,9 @@ Add screenshots of the game here.
 For example:
 
 ```markdown
-![Tetris Gameplay](ss/ss 1.png)
-![Tetris Gameplay](ss/ss 2.png)
-![Tetris Gameplay](ss/ss 3.png)
+![https://github.com/hamzza07x/tetris-pygame/blob/main/ss/ss%201.png]
+![https://github.com/hamzza07x/tetris-pygame/blob/main/ss/ss%202.png]
+![https://github.com/hamzza07x/tetris-pygame/blob/main/ss/ss%203.png]
 ```
 
 ---
