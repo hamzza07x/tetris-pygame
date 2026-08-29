@@ -270,11 +270,13 @@ Add screenshots of the game here.
 
 For example:
 
-```markdown
-![https://github.com/hamzza07x/tetris-pygame/blob/main/ss/ss%201.png]
-![https://github.com/hamzza07x/tetris-pygame/blob/main/ss/ss%202.png]
-![https://github.com/hamzza07x/tetris-pygame/blob/main/ss/ss%203.png]
-```
+## 📸 Screenshots
+
+<p align="center">
+  <img src="ss/ss%201.png" width="30%" alt="Tetris Gameplay 1">
+  <img src="ss/ss%202.png" width="30%" alt="Tetris Gameplay 2">
+  <img src="ss/ss%203.png" width="30%" alt="Tetris Gameplay 3">
+</p>
 
 ---
 
