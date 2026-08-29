@@ -271,7 +271,9 @@ Add screenshots of the game here.
 For example:
 
 ```markdown
-![Tetris Gameplay](screenshots/gameplay.png)
+![Tetris Gameplay](ss/ss 1.png)
+![Tetris Gameplay](ss/ss 2.png)
+![Tetris Gameplay](ss/ss 3.png)
 ```
 
 ---
